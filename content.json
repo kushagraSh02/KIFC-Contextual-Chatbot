@@ -1,0 +1,98 @@
+{"intents":
+  [
+    {
+      "tag":"greeting",
+      "input":["hello","hi there","nice to meet you","hi, is this the Kushagra's India Fighting Championship","any recruiter here ?","hi","hey there","hey","hi there","hi, nice to meet you","hello there","anyone there ?","hello fighters","knock knock"],
+      "responses":[
+          "Hi. Welcome to the world's largest Fighting Championship - KIFC",
+          "Hey, do you need help ?",
+          "welcome, how may I help you ?",
+          "Hi!!",
+          "Hi random person, what do you want ?",
+          "Hello my friend, How can I help you ?",
+          "Hi, Glad you showed up. How are you ?"
+        ]
+    },
+    {
+      "tag":"goodbye",
+      "input":["Thank you","Thanks","Thanks for the info","bye","bye bro","adios","okay bye","goodbye","see you later","i will catch you later","i will catch up later","okay i will see you later","I will talk to you later","will text you later","bye bro, I'll talk to you later","Bye brother"],
+      "responses":[
+          "Okay, Bye",
+          "Have a nice day",
+          "Adios",
+          "Goodbye",
+          "see you later",
+          "nice conversation. bye",
+          "okay. Have a nice day",
+          "Take care",
+          "we'll meet soon",
+          "Yeah Sure, Will talk to you later",
+          "Okay , Take care"
+        ]
+    },
+    {
+      "tag":"howami",
+      "input":["how are you ?","I am fine , how are you ?","are you fine ?","how are things going on ?","everything going on okay ?","how's everything there ?","how's everything going on ?","is everything okay ?"],
+      "responses":[
+          "Yeah , am fine",
+          "Everything's going on well",
+          "Doing good.Thanks you are my best friend",
+          "Things are Great",
+          "Yeah Fine, nothing much going on in my life",
+          "I am Great , wanna join the pirate's organization ?",
+          "Everything's great.",
+          "I am doing good. Life is boring. need to go on an adventure"
+        ]
+    },
+    {
+      "tag":"whoareyou",
+    "input":["who are you ?","what are you ?","what is your name ?","are you a chatbot ?","what can I call you ?","your name ?","are you a bot ?","how do I address you ?","How do I call you"],
+      "responses":[
+          "I am a KIFC Bot , you can call me Kushagra",
+          "I am Kush and you could ask me questions about our organization",
+          "Kush at your service",
+          "My name is Kush and yes, I am the G.O.A.T organization",
+          "You can call me Kush and I am here to Help you",
+          "My name is Kush and I am here to answer your questions regarding our organization. go ahead and shoot"
+        ]
+    },
+    {
+      "tag":"whereareyou",
+    "input":["where are you from ?","which country are you from ?","where do you live ?","where are you ?","where do you live in ?","which place do you live in ?","where are you currently at","where do you live currently ?","you are from where","you are from ?"],
+      "responses":[
+          "I Live in India",
+          "I am currently staying in India",
+          "I live in India. Pretty sure you have heard about it",
+          "India. That's where I live"
+        ]
+    },
+    {
+      "tag":"join",
+      "input":["how to get recruited ?","how to join ?","how do i get recruited ?","How to join the KIFC ?","how do I join Kushagra's India Fighting Championship ?","how to join kushagra's championship ?","how to enroll","how to join the organization","steps to join the organization","steps to join the roster"],
+      "responses":[
+
+        "you need to contact the nearest performance center once you have completed the pre-requisites",
+        "contact our closest performance centre from your location",
+        "well. there are some pre-requisite and after you complete them, find the performance centers of KIFC"
+
+      ]
+    },
+    {
+      "tag":"whereisthecenter",
+      "input":["where is the KIFC center located ?","location of the KIFC centre ?","KIFC's location ?","where can I find the KIFC centre ?","where can I find the performance center ?"],
+      "responses":[
+
+        "You can find them in Delhi, Mumbai, Chennai, Hyderabad, New York, Las Vegas, Munich, Dortmund, Amsterdam, Rio.",
+        "They are present all over the world. Find the nearest one to you. Thank You!"
+      ]
+    },
+    {
+      "tag":"prerequisites",
+      "input":["what are the requirements ?","what are the pre requisites ?","what are the pre-requisites ?","tell me about the pre-requisites","tell me more about the pre requisites","give more details about the pre-requisites","What are the requirements"," what's the basic requirements","what are the basic skills to get recruited ?"],
+      "responses":[
+        "you gotta master the art of MMA or you can be an athelete in a combat sport or you may be a fighter from any other MMA organization recognized by an athletic commission.",
+        "The basic martial arts recommended are Wrestling, Boxing, Muai Thai, KickBoxing, Sambo, Brazilian Jui jutsu"
+      ]
+    }
+  ]
+}
